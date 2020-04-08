@@ -7313,7 +7313,7 @@ h1, h2, h3, h4, h5,
 
 #colorlib-page {
   width: 100%;
-  overflow: hidden;
+  overflow-y: scroll;
   position: relative; }
 
 #colorlib-aside {
